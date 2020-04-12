@@ -9,3 +9,5 @@ and if you want you can change scale (KB default) by adding `--chunk_size (Scale
 and then progress bar will update everytime that amount of Bytes was downloaded.
 
 So yeah that's it. Have fun of my messy code.
+
+Defaultly if you use 1, 1024 or 1048576 as chunk size it will set into B, KB or MB, because old me thought that was a really cool functionality.
